@@ -1,5 +1,5 @@
-﻿빌드 시작: 2017-11-08 오후 5:16:20
-     1>2 노드의 "C:\Users\sungmin\Documents\Visual Studio 2013\Projects\googleEarth\googleEarth\googleEarth.vcxproj" 프로젝트(Build 대상)입니다.
+﻿빌드 시작: 2017-11-08 오후 8:33:53
+     1>2 노드의 "C:\Users\sungmin\documents\visual studio 2013\Projects\googleEarth\googleEarth\googleEarth.vcxproj" 프로젝트(Build 대상)입니다.
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W1 /WX- /O2 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt "소스.cpp"
          소스.cpp
@@ -7,10 +7,10 @@
      1>C:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
      1>C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sungmin\Documents\Visual Studio 2013\Projects\googleEarth\x64\Debug\googleEarth.exe" /NOLOGO opencv_world310.lib opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\sungmin\Documents\Visual Studio 2013\Projects\googleEarth\x64\Debug\googleEarth.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\sungmin\Documents\Visual Studio 2013\Projects\googleEarth\x64\Debug\googleEarth.lib" /MACHINE:X64 "x64\Debug\소스.obj"
-         googleEarth.vcxproj -> C:\Users\sungmin\Documents\Visual Studio 2013\Projects\googleEarth\x64\Debug\googleEarth.exe
-     1>"C:\Users\sungmin\Documents\Visual Studio 2013\Projects\googleEarth\googleEarth\googleEarth.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sungmin\documents\visual studio 2013\Projects\googleEarth\x64\Debug\googleEarth.exe" /NOLOGO opencv_world310.lib opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\sungmin\documents\visual studio 2013\Projects\googleEarth\x64\Debug\googleEarth.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\sungmin\documents\visual studio 2013\Projects\googleEarth\x64\Debug\googleEarth.lib" /MACHINE:X64 "x64\Debug\소스.obj"
+         googleEarth.vcxproj -> C:\Users\sungmin\documents\visual studio 2013\Projects\googleEarth\x64\Debug\googleEarth.exe
+     1>"C:\Users\sungmin\documents\visual studio 2013\Projects\googleEarth\googleEarth\googleEarth.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
 
 빌드했습니다.
 
-경과 시간: 00:00:01.15
+경과 시간: 00:00:01.12
